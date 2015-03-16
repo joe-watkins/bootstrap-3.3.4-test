@@ -8,5 +8,5 @@ Just a quick repo testing out Sass-Bootstrap 3.3.4 for an issue. This project us
 ``grunt serve``
 
 ## Folder Structure
-/scripts/ = main.js
-/styles/ = styles.scss
+/scripts/ = main.js<br>
+/styles/ = main.scss
